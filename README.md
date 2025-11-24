@@ -5,7 +5,7 @@ Data Analyst specializing in SQL, Power BI, Python, and Business Intelligence. I
 ---
 
 # 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/munishsagar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-sodhi/)
 
 ---
 
