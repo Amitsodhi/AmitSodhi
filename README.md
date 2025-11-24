@@ -1,12 +1,7 @@
 # 👨‍💻 About Me
 
-Data Analyst specializing in **SQL, Power BI, Python, and Business Intelligence**.  
-I transform raw business data into **actionable insights, dashboards, and automated analytics solutions**.  
-Skilled in building **end-to-end analytics pipelines**, developing **DAX measures**, optimizing **SQL queries**,  
-and creating **interactive visualizations** that support data-driven decision-making.
-
-I enjoy working with real-world datasets, solving business problems, and building analytics projects  
-in domains like **Finance, Marketing, Operations, and Customer Analytics**.
+Data Analyst specializing in **SQL, Power BI, Python, and Business Intelligence**.I transform raw business data into **actionable insights, dashboards, and automated analytics solutions**.  
+Skilled in building **end-to-end analytics pipelines**, developing **DAX measures**, optimizing **SQL queries**, and creating **interactive visualizations** that support data-driven decision-making. I enjoy working with real-world datasets, solving business problems, and building analytics projects in domains like **Finance, Marketing, Operations, and Customer Analytics**.
 
 ---
 
